@@ -1,4 +1,4 @@
-mage:
+image:
   file: .gitpod.Dockerfile
 tasks:
   - init: echo "Replace me with a build script for the project."
